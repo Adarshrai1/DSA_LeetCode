@@ -12,5 +12,5 @@ class Solution:
             else:
                 return char
 
-        return ''  
+        return ''  #Adarsh
         
